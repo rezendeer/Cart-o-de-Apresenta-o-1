@@ -1,0 +1,1 @@
+https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.freepik.com%2Fai%2Fgerador-imagens&psig=AOvVaw3U-_7LVynxBNQ9bFCtTF7Z&ust=1759923408045000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKiK797_kZADFQAAAAAdAAAAABAL

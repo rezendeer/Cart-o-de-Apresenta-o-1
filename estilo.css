@@ -1,0 +1,66 @@
+/* Estilização para o corpo da página */
+body {
+    background-color: #f4f4f9; /* Cor de fundo suave */
+    display: flex;
+    justify-content: center; /* Centraliza o conteúdo horizontalmente */
+    align-items: center;     /* Centraliza o conteúdo verticalmente */
+    height: 100vh;           /* Altura total da tela */
+    margin: 0;               /* Remove a margem padrão */
+    font-family: 'Arial', sans-serif; /* Fonte básica */
+}
+
+/* Estilização para o cartão (div com a classe 'cartao') */
+.cartao {
+    background-color: #fff;   /* Cor de fundo do cartão */
+    width: 300px;             /* Largura do cartão */
+    padding: 20px;            /* Preenchimento interno */
+    border-radius: 15px;      /* Cantos arredondados */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    text-align: center;       /* Texto centralizado */
+    box-sizing: border-box;   /* Inclui padding e border no cálculo da largura */
+}
+
+/* Estilização para o header (nome e imagem) */
+header {
+    margin-bottom: 20px;      /* Espaço abaixo do header */
+}
+
+header h1 {
+    color: #4CAF50;           /* Cor do título */
+    font-size: 24px;          /* Tamanho da fonte */
+    margin-bottom: 10px;      /* Espaço abaixo do título */
+}
+
+header img {
+    width: 150px;             /* Largura da imagem */
+    height: 150px;            /* Altura da imagem */
+    border-radius: 50%;       /* Deixa a imagem redonda */
+    object-fit: cover;        /* Garante que a imagem se ajuste ao tamanho */
+    margin: 0 auto;           /* Centraliza a imagem */
+    display: block;           /* Remove espaços extras ao redor da imagem */
+}
+
+/* Estilização para o texto geral */
+p {
+    color: #373336;              /* Cor do texto */
+    font-size: 16px;          /* Tamanho da fonte */
+    line-height: 1.5;         /* Espaçamento entre as linhas */
+    margin-bottom: 20px;      /* Espaço abaixo do parágrafo */
+}
+
+/* Estilização para as listas de habilidades ou interesses */
+ul {
+    list-style-type: none;    /* Remove os marcadores da lista */
+    padding: 0;               /* Remove o padding */
+}
+
+ul li {
+    color: #555555;              /* Cor dos itens da lista */
+    font-size: 16px;          /* Tamanho da fonte */
+    margin-bottom: 10px;      /* Espaço entre os itens */
+}
+
+/* Estilização para as seções */
+ul, p {
+    text-align: left;         /* Alinha o texto da lista e parágrafo à esquerda */
+}
